@@ -61,3 +61,5 @@ Feel free to open an issue or submit a PR!
 
 MIT — free for everyone.
 
+Collected From [Naymur](https://www.reddit.com/r/tailwindcss/comments/1osfdr8/the_ultimate_list_of_free_shadcn_ui_blocks/)
+
