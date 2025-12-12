@@ -9,16 +9,16 @@ If you're building with **Next.js + Tailwind CSS**, these tools will save you ho
 
 | Library | Description |
 |--------|-------------|
-| **Tailark – Hero Section** | Clean hero-section templates built for Shadcn UI. |
-| **Shadcn Blocks** | Ready-to-use Shadcn UI block patterns. |
-| **UI-Layouts (40+ Free Blocks)** | Large collection of modern layouts using Shadcn UI. |
-| **Shadcn Studio** | Drag-and-drop builder for Shadcn UI elements. |
-| **Blocks.so** | Component blocks optimized for Next.js projects. |
-| **Intent UI** | Clean, minimal Shadcn UI blocks. |
-| **Smooth UI** | Smooth and modern UI sections. |
-| **Solace UI** | High-quality section templates for landing pages. |
-| **Kibo UI** | Premium-style blocks offered for free. |
-| **8bitcn Blocks** | Retro-inspired block designs. |
+| [**Tailark – Hero Section**](https://tailark.com/hero-section) | Clean hero-section templates built for Shadcn UI. |
+| [**Shadcn Blocks**](https://www.shadcnblocks.com/blocks) | Ready-to-use Shadcn UI block patterns. |
+| [**UI-Layouts (40+ Free Blocks)**](https://pro.ui-layouts.com/blocks) | Large collection of modern layouts using Shadcn UI. |
+| [**Shadcn Studio**](https://shadcnstudio.com/blocks) | Drag-and-drop builder for Shadcn UI elements. |
+| [**Blocks.so**](https://blocks.so/) | Component blocks optimized for Next.js projects. |
+| [**Intent UI**](https://intentui.com/blocks) | Clean, minimal Shadcn UI blocks. |
+| [**Smooth UI**](https://smoothui.dev/doc/blocks) | Smooth and modern UI sections. |
+| [**Solace UI**](https://www.solaceui.com/sections) | High-quality section templates for landing pages. |
+| [**Kibo UI**](https://www.kibo-ui.com/blocks) | Premium-style blocks offered for free. |
+| [**8bitcn Blocks**](https://www.8bitcn.com/blocks) | Retro-inspired block designs. |
 
 ---
 
@@ -26,26 +26,26 @@ If you're building with **Next.js + Tailwind CSS**, these tools will save you ho
 
 | Library | Description |
 |--------|-------------|
-| **Aceternity UI** | Stunning animated components using Framer Motion. |
-| **Magic UI** | Beautiful micro-interactions and effects. |
-| **Motion Primitives** | Reusable motion components built on Framer Motion. |
-| **UI-Layouts** | Also includes component-level building blocks. |
-| **Fancy Components** | Stylish Tailwind components with Shadcn support. |
-| **Align UI** | Clean utility-focused UI parts. |
-| **ReactBits** | Practical React component snippets. |
-| **Kibo UI** | Component library companion to Kibo blocks. |
-| **Cult UI** | Aesthetic, modern Shadcn UI components. |
-| **Sera UI** | Open-source Shadcn-based design system. |
-| **8bitcn UI** | Retro components for web apps. |
-| **Retro UI** | Pixel-art style components. |
-| **Kokonut UI** | Soft, neumorphic-style UI elements. |
-| **Hexta UI** | Professional Shadcn-inspired components. |
+| [**Aceternity UI**](https://ui.aceternity.com/) | Stunning animated components using Framer Motion. |
+| [**Magic UI**](https://magicui.design/) | Beautiful micro-interactions and effects. |
+| [**Motion Primitives**](https://motion-primitives.com/) | Reusable motion components built on Framer Motion. |
+| [**UI-Layouts**](https://www.ui-layouts.com/) | Also includes component-level building blocks. |
+| [**Fancy Components**](https://www.fancycomponents.dev/) | Stylish Tailwind components with Shadcn support. |
+| [**Align UI**](https://www.alignui.com/) | Clean utility-focused UI parts. |
+| [**ReactBits**](https://reactbits.dev/) | Practical React component snippets. |
+| [**Kibo UI**](https://www.kibo-ui.com/) | Component library companion to Kibo blocks. |
+| [**Cult UI**](https://www.cult-ui.com/) | Aesthetic, modern Shadcn UI components. |
+| [**Sera UI**](https://seraui.com/) | Open-source Shadcn-based design system. |
+| [**8bitcn UI**](https://www.8bitcn.com/) | Retro components for web apps. |
+| [**Retro UI**](https://www.retroui.dev/) | Pixel-art style components. |
+| [**Kokonut UI**](https://kokonutui.com/) | Soft, neumorphic-style UI elements. |
+| [**Hexta UI**](https://www.hextaui.com/) | Professional Shadcn-inspired components. |
 
 ---
 
 ## 🎁 Bonus Tool
 
-### **21st.dev**  
+### [**21st.dev**](https://21st.dev/)  
 A powerful tool that helps developers streamline and enhance their **Shadcn + Next.js** workflow.
 
 ---
